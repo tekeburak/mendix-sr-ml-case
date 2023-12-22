@@ -155,7 +155,7 @@ predictor = model.deploy(
 ```
 
 #### POSTMAN Screenshot
-![](POSTMAN.png)
+![](/mendix-solution/POSTMAN.png)
 
 #### POSTMAN Return Data 
 - The return data from the POSTMAN request: 
